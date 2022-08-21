@@ -1,6 +1,6 @@
 fn main() {
     let fib = fibonacci(90);
-    println!("Hello, Fibonaci! {fib}");
+    println!("Hello, Fibonacci! {fib}");
 }
 
 fn fibonacci(n: i32) -> u64 {
