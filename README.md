@@ -1,2 +1,3 @@
 # rust
-Rust learning repository 
+Rust learning repo
+
